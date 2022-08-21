@@ -1,4 +1,4 @@
-## Olá! me chamo Walex Souza, Sejá bem-vindo ao meu perfil do GitHub! 🙋‍♂️
+## Olá! me chamo Walex Souza, Seja bem-vindo ao meu perfil do GitHub! 🙋‍♂️
 <div align="center">
   <a href="https://github.com/walex-souza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walex-souza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
